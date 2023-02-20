@@ -161,9 +161,7 @@ If you like this project please give it a start and share it with your friends.
 
 I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-... 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
