@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+
+.calculator {
+  font-family: 'Space Grotesk', sans-serif;
+  width: 100%;
+  max-width: 26.25rem;
+  border-radius: 0.25em;
+  overflow: hidden;
+  box-shadow: 0.25rem 0.25rem 1rem rgba(0, 0, 0, 0.15);
+  background-color: var(--color-light-grey);
+}
+
+.calc-output {
+  padding: 1rem 0.25rem;
+  font-size: 1.5em;
+  text-align: right;
+  color: var(--color-light);
+  background-color: var(--color-grey);
+}
+
+.calc-grid {
+  padding: 0.25rem;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-gap: 0.25rem;
+}
+
+.calc-numbers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.25rem;
+}
+
+.calc-operators {
+  display: grid;
+  grid-gap: 0.25rem;
+}
+
+.btn {
+  display: block;
+  padding: 1em;
+  font-size: 1.25em;
+  color: inherit;
+  width: 100%;
+  border: 0;
+  cursor: pointer;
+  transition: opacity 150ms ease-in-out;
+}
+
+.btn:hover {
+  opacity: 0.75;
+}
+
+.calc-numbers .btn {
+  background-color: var(--color-white);
+}
+
+.calc-operators .btn {
+  background-color: var(--color-orange);
+}
+
+#btn-zero {
+  grid-column: 1/3;
+}
