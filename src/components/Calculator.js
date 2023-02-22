@@ -20,10 +20,15 @@ const Calculator = () => {
     }
   };
 
-  const { total, next } = state;
+  const { total, next, operation } = state;
   return (
     <main className="calculator">
-      <header className="calc-output">{total || next || 0 }</header>
+      <header className="calc-output">
+        {total}
+        {' '}
+        {operation}
+        {next}
+      </header>
 
       <div className="calc-grid">
         <section className="calc-numbers">
@@ -75,7 +80,7 @@ const Calculator = () => {
           <button id="btn-divide" className="button_calculator" type="button" onClick={() => handleClick('/')}>
             /
           </button>
-          <button id="btn-multiply" className="button_calculator" type="button" onClick={() => handleClick('*')}>
+          <button id="btn-multiply" className="button_calculator" type="button" onClick={() => handleClick('x')}>
             *
           </button>
           <button id="btn-subtract" className="button_calculator" type="button" onClick={() => handleClick('-')}>
