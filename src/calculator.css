@@ -36,7 +36,7 @@
   grid-gap: 0.25rem;
 }
 
-.btn {
+.button_calculator {
   display: block;
   padding: 1em;
   font-size: 1.25em;
@@ -47,15 +47,11 @@
   transition: opacity 150ms ease-in-out;
 }
 
-.btn:hover {
-  opacity: 0.75;
-}
-
-.calc-numbers .btn {
+.calc-numbers .button_calculator {
   background-color: var(--color-white);
 }
 
-.calc-operators .btn {
+.calc-operators .button_calculator {
   background-color: var(--color-orange);
 }
 
