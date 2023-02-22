@@ -1,8 +1,20 @@
 import '../calculator.css';
 import Big from 'big.js';
 import React, { useState } from 'react';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import PropTypes from 'prop-types';
 import calculate from '../logic/calculate';
 import operate from '../logic/operate';
+
+const Button = ({ value, onClick }) => (
+  <button type="button" className="button_calculator" onClick={onClick}>
+    {value}
+  </button>
+);
+Button.propTypes = {
+  value: PropTypes.string.isRequired,
+  onClick: PropTypes.func.isRequired,
+};
 
 const Calculator = () => {
   const [state, setState] = useState({ total: null, next: null, operation: null });
@@ -41,9 +53,7 @@ const Calculator = () => {
           <button id="btn-percentage" className="button_calculator" type="button" onClick={() => handleClick('%')}>
             %
           </button>
-          <button id="btn-one" className="button_calculator" type="button" onClick={() => handleClick('1')}>
-            1
-          </button>
+          <Button value="1" onClick={() => handleClick('1')} />
           <button id="btn-two" className="button_calculator" type="button" onClick={() => handleClick('2')}>
             2
           </button>
