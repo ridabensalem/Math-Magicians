@@ -1,12 +1,8 @@
-html {
-  box-sizing: border-box;
-  font-size: 100%;
-}
 
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 body {
@@ -20,15 +16,9 @@ body {
 
   margin: 0;
   padding: 0;
-  font-size: 0.85em;
+  font-size: 0.9em;
   font-family: sans-serif;
-  font-weight: 400;
+  font-weight: normal;
   color: var(--color-dark-grey);
   background-color: var(--color-light);
-}
-
-@media (min-width: 64em) {
-  body {
-    font-size: 1em;
-  }
 }
