@@ -133,8 +133,6 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Full navigation of the page ]**
@@ -161,14 +159,12 @@ If you like this project please give it a start and share it with your friends.
 
 I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-... 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed._
+This project is [MIT](./MIT.md) licensed._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
