@@ -1,0 +1,1115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test for Math Magicians project Snapshot Calculator rendering test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <main
+          class="calculator"
+        >
+          <header
+            class="calc-output"
+          >
+             
+          </header>
+          <div
+            class="calc-grid"
+          >
+            <section
+              class="calc-numbers"
+            >
+              <button
+                class="button_calculator"
+                id="btn-ac"
+                type="button"
+              >
+                AC
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-minus-plus"
+                type="button"
+              >
+                +/-
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-percentage"
+                type="button"
+              >
+                %
+              </button>
+              <button
+                class="button_calculator"
+                type="button"
+              >
+                1
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-two"
+                type="button"
+              >
+                2
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-three"
+                type="button"
+              >
+                3
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-four"
+                type="button"
+              >
+                4
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-five"
+                type="button"
+              >
+                5
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-six"
+                type="button"
+              >
+                6
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-seven"
+                type="button"
+              >
+                7
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-eight"
+                type="button"
+              >
+                8
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-nine"
+                type="button"
+              >
+                9
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-zero"
+                type="button"
+              >
+                0
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-period"
+                type="button"
+              >
+                .
+              </button>
+            </section>
+            <section
+              class="calc-operators"
+            >
+              <button
+                class="button_calculator"
+                id="btn-divide"
+                type="button"
+              >
+                /
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-multiply"
+                type="button"
+              >
+                *
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-subtract"
+                type="button"
+              >
+                -
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-add"
+                type="button"
+              >
+                +
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-equals"
+                type="button"
+              >
+                =
+              </button>
+            </section>
+          </div>
+        </main>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <main
+        class="calculator"
+      >
+        <header
+          class="calc-output"
+        >
+           
+        </header>
+        <div
+          class="calc-grid"
+        >
+          <section
+            class="calc-numbers"
+          >
+            <button
+              class="button_calculator"
+              id="btn-ac"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-minus-plus"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-percentage"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="button_calculator"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-two"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-three"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-four"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-five"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-six"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-seven"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-eight"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-nine"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-zero"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-period"
+              type="button"
+            >
+              .
+            </button>
+          </section>
+          <section
+            class="calc-operators"
+          >
+            <button
+              class="button_calculator"
+              id="btn-divide"
+              type="button"
+            >
+              /
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-multiply"
+              type="button"
+            >
+              *
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-subtract"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-add"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-equals"
+              type="button"
+            >
+              =
+            </button>
+          </section>
+        </div>
+      </main>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Snapshot Test for Math Magicians project Snapshot Calculator should be equal when component is rendered 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <main
+          class="calculator"
+        >
+          <header
+            class="calc-output"
+          >
+             
+          </header>
+          <div
+            class="calc-grid"
+          >
+            <section
+              class="calc-numbers"
+            >
+              <button
+                class="button_calculator"
+                id="btn-ac"
+                type="button"
+              >
+                AC
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-minus-plus"
+                type="button"
+              >
+                +/-
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-percentage"
+                type="button"
+              >
+                %
+              </button>
+              <button
+                class="button_calculator"
+                type="button"
+              >
+                1
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-two"
+                type="button"
+              >
+                2
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-three"
+                type="button"
+              >
+                3
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-four"
+                type="button"
+              >
+                4
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-five"
+                type="button"
+              >
+                5
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-six"
+                type="button"
+              >
+                6
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-seven"
+                type="button"
+              >
+                7
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-eight"
+                type="button"
+              >
+                8
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-nine"
+                type="button"
+              >
+                9
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-zero"
+                type="button"
+              >
+                0
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-period"
+                type="button"
+              >
+                .
+              </button>
+            </section>
+            <section
+              class="calc-operators"
+            >
+              <button
+                class="button_calculator"
+                id="btn-divide"
+                type="button"
+              >
+                /
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-multiply"
+                type="button"
+              >
+                *
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-subtract"
+                type="button"
+              >
+                -
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-add"
+                type="button"
+              >
+                +
+              </button>
+              <button
+                class="button_calculator"
+                id="btn-equals"
+                type="button"
+              >
+                =
+              </button>
+            </section>
+          </div>
+        </main>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <main
+        class="calculator"
+      >
+        <header
+          class="calc-output"
+        >
+           
+        </header>
+        <div
+          class="calc-grid"
+        >
+          <section
+            class="calc-numbers"
+          >
+            <button
+              class="button_calculator"
+              id="btn-ac"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-minus-plus"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-percentage"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="button_calculator"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-two"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-three"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-four"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-five"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-six"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-seven"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-eight"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-nine"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-zero"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-period"
+              type="button"
+            >
+              .
+            </button>
+          </section>
+          <section
+            class="calc-operators"
+          >
+            <button
+              class="button_calculator"
+              id="btn-divide"
+              type="button"
+            >
+              /
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-multiply"
+              type="button"
+            >
+              *
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-subtract"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-add"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="button_calculator"
+              id="btn-equals"
+              type="button"
+            >
+              =
+            </button>
+          </section>
+        </div>
+      </main>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Snapshot Test for Math Magicians project Snapshot Home rendering test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1
+        class="header_magician"
+      >
+        Welcome to Math Magician
+      </h1>
+      <p>
+        The Math Magician Calculator is a remarkable tool that transcends the boundaries of t
+        <br />
+        raditional arithmetic computation. It possesses the magical ability to effortlessly perform complex mathematical operations wit h lightning speed and precision, leaving users awe-inspired and captivated.
+      </p>
+      <p>
+        The Math Magician Calculator is not only highly efficient but also highly versatile,
+        <br />
+        capable of performing a vast range of mathematical operations with ease. Whether you need to perform basic arithmetic calculations, algebraic equations, trigonometric functions, or statistical analyses, this calculator has got you covered.
+      </p>
+    </div>
+  </body>,
+  "container": <div>
+    <h1
+      class="header_magician"
+    >
+      Welcome to Math Magician
+    </h1>
+    <p>
+      The Math Magician Calculator is a remarkable tool that transcends the boundaries of t
+      <br />
+      raditional arithmetic computation. It possesses the magical ability to effortlessly perform complex mathematical operations wit h lightning speed and precision, leaving users awe-inspired and captivated.
+    </p>
+    <p>
+      The Math Magician Calculator is not only highly efficient but also highly versatile,
+      <br />
+      capable of performing a vast range of mathematical operations with ease. Whether you need to perform basic arithmetic calculations, algebraic equations, trigonometric functions, or statistical analyses, this calculator has got you covered.
+    </p>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Snapshot Test for Math Magicians project Snapshot Home should be equal when component is rendered 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1
+        class="header_magician"
+      >
+        Welcome to Math Magician
+      </h1>
+      <p>
+        The Math Magician Calculator is a remarkable tool that transcends the boundaries of t
+        <br />
+        raditional arithmetic computation. It possesses the magical ability to effortlessly perform complex mathematical operations wit h lightning speed and precision, leaving users awe-inspired and captivated.
+      </p>
+      <p>
+        The Math Magician Calculator is not only highly efficient but also highly versatile,
+        <br />
+        capable of performing a vast range of mathematical operations with ease. Whether you need to perform basic arithmetic calculations, algebraic equations, trigonometric functions, or statistical analyses, this calculator has got you covered.
+      </p>
+    </div>
+  </body>,
+  "container": <div>
+    <h1
+      class="header_magician"
+    >
+      Welcome to Math Magician
+    </h1>
+    <p>
+      The Math Magician Calculator is a remarkable tool that transcends the boundaries of t
+      <br />
+      raditional arithmetic computation. It possesses the magical ability to effortlessly perform complex mathematical operations wit h lightning speed and precision, leaving users awe-inspired and captivated.
+    </p>
+    <p>
+      The Math Magician Calculator is not only highly efficient but also highly versatile,
+      <br />
+      capable of performing a vast range of mathematical operations with ease. Whether you need to perform basic arithmetic calculations, algebraic equations, trigonometric functions, or statistical analyses, this calculator has got you covered.
+    </p>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Snapshot Test for Math Magicians project Snapshot Quote rendering test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        Math Quote 
+      </h1>
+      <q>
+         Pure mathematics is, in its way, the poetry of logical ideas
+      </q>
+      <q>
+         Without mathematics, there is nothing you can do
+      </q>
+      <q>
+         Without mathematics, there is nothing you can calculate
+      </q>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      Math Quote 
+    </h1>
+    <q>
+       Pure mathematics is, in its way, the poetry of logical ideas
+    </q>
+    <q>
+       Without mathematics, there is nothing you can do
+    </q>
+    <q>
+       Without mathematics, there is nothing you can calculate
+    </q>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Snapshot Test for Math Magicians project Snapshot Quote should be equal when component is rendered 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        Math Quote 
+      </h1>
+      <q>
+         Pure mathematics is, in its way, the poetry of logical ideas
+      </q>
+      <q>
+         Without mathematics, there is nothing you can do
+      </q>
+      <q>
+         Without mathematics, there is nothing you can calculate
+      </q>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      Math Quote 
+    </h1>
+    <q>
+       Pure mathematics is, in its way, the poetry of logical ideas
+    </q>
+    <q>
+       Without mathematics, there is nothing you can do
+    </q>
+    <q>
+       Without mathematics, there is nothing you can calculate
+    </q>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
