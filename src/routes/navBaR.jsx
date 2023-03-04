@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-
+// navbar Components
 const NavBar = () => (
   <nav>
     <ul>
