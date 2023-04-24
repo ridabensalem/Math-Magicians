@@ -110,13 +110,6 @@ Install this project with:
 To run tests, run the following command:
 ` npm run test`
 
-
-### Deployment
-
-You can deploy this project using:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
