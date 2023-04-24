@@ -89,10 +89,10 @@ const Calculator = () => {
 
           <section className="calc-operators">
             <button id="btn-divide" className="button_calculator" type="button" onClick={() => handleClick('/')}>
-              /
+               ÷
             </button>
             <button id="btn-multiply" className="button_calculator" type="button" onClick={() => handleClick('x')}>
-              *
+                ×
             </button>
             <button id="btn-subtract" className="button_calculator" type="button" onClick={() => handleClick('-')}>
               -
