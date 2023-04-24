@@ -62,7 +62,6 @@
 
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -122,8 +121,6 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Full navigation of the page ]**
@@ -149,7 +146,6 @@ If you like this project please give it a start and share it with your friends.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to appreciate [Microverse](https://www.microverse.org/) for providing the resources and the platform for us to be a Professional full-stack developer.
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

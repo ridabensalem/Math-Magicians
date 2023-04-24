@@ -1,5 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
 .App {
   display: grid;
   place-items: center;
   height: 95vh;
+}
+
+p {
+  text-align: start;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: #2980b9;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+ul li a:hover {
+  color: #00a8ff;
+}
+
+ul li a.active {
+  color: #00a8ff;
+}
+
+.header_magician {
+  text-align: center;
+}
+
+q {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
 }
